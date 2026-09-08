@@ -20,6 +20,7 @@
 
 ## Cấu trúc thư mục
 
+```
 Lab02/
 ├── README.md
 ├── requirements.txt
@@ -41,7 +42,7 @@ Lab02/
 │ └── dp_solver_convergence.png
 └── data/
   └── README.md
-
+```
 
 ## Cài đặt
 
