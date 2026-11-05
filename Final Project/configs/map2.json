@@ -1,0 +1,33 @@
+{
+ "rows": 6,
+ "cols": 6,
+ "start": [
+  0,
+  0
+ ],
+ "exit": [
+  5,
+  5
+ ],
+ "coins": {
+  "0,3": 2,
+  "2,2": 4,
+  "3,4": 3,
+  "5,3": 6
+ },
+ "disappear_info": {
+  "5,3": 10
+ },
+ "time_bonus_pos": [
+  4,
+  2
+ ],
+ "time_bonus_value": 3,
+ "max_steps": 13,
+ "walls": [
+  [
+   1,
+   1
+  ]
+ ]
+}
